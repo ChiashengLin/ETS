@@ -1,0 +1,1522 @@
+.amrita {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	color: #999999;
+	letter-spacing: 1px;
+	background-position: left top;
+}
+
+.top_bt {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #555555;
+	letter-spacing: 1px;
+	line-height: 17px;
+}
+
+.amrita_txt {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+
+.amrita_txtone {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 19px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #4A4847;
+	letter-spacing: 1px;
+}
+
+.amritaitem_fee {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #626F1A;
+	letter-spacing: 1px;
+	padding: 5px;
+}
+
+.amrita_spot {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #555555;
+}
+
+.large_tit {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: 30px;
+	font-weight: bold;
+	color: #333333;
+	letter-spacing: 1px;
+}
+
+.amrita_adr {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	color: #6E150F;
+	letter-spacing: 1px;
+}
+
+.large_tit02 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #798A26;
+	letter-spacing: 1px;
+	font-weight: bold;
+	line-height: 30px;
+}
+
+.large_tit03 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: none;
+	color: #3b7cc5;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+
+.large_tit04 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	text-transform: none;
+	color: #576B2E;
+	letter-spacing: 1px;
+	line-height: 20px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+.large_tit05 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: none;
+	color: #009ade;
+	letter-spacing: 0;
+	line-height: 36px;
+}
+
+.b {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+.b:link {
+	color: #444444;
+} 
+.b:visited {
+	color: #444444;
+} 
+.b:hover {
+	color: #666666;
+	text-decoration: underline;
+} 
+.b:active {
+	color: #444444;
+}
+
+.b2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+.b2:link {
+	color: #A37572;
+} 
+.b2:visited {
+	color: #6E150F;
+} 
+.b2:hover {
+	color: #6E150F;
+	text-decoration: underline;
+} 
+.b2:active {
+	color: #6E150F;
+}
+
+
+
+
+.b3p {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #C84441;
+	letter-spacing: 0px;
+}
+
+.b3p:link {    
+	color: #C84441;
+} 
+.b3p:visited {
+	color: #C84441;
+} 
+.b3p:hover {
+	color: #D36A67;
+	text-decoration: underline;
+} 
+.b3p:active {
+	color: #C84441;
+}
+
+
+.b3pl {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #C84441;
+	letter-spacing: 1px;
+}
+
+.b3pl:link {    
+	color: #C84441;
+    text-decoration: underline;
+} 
+.b3pl:visited {
+	color: #C84441;
+	text-decoration: underline;
+} 
+.b3pl:hover {
+	color: #D36A67;
+	text-decoration: none;
+} 
+.b3pl:active {
+	color: #C84441;
+    text-decoration: underline;
+}
+
+
+.b3pln {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #C84441;
+	letter-spacing: 1px;
+}
+
+
+
+
+
+.b3pl2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	font-weight: normal;
+	color: #C84441;
+	letter-spacing: 1px;
+}
+
+.b3pl2:link {    
+	color: #C84441;
+    text-decoration: underline;
+} 
+.b3pl2:visited {
+	color: #C84441;
+	text-decoration: underline;
+} 
+.b3pl2:hover {
+	color: #D36A67;
+	text-decoration: none;
+} 
+.b3pl2:active {
+	color: #C84441;
+    text-decoration: underline;
+}
+
+
+
+
+.b3ps {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #990000;
+	letter-spacing: 1px;
+}
+.b3ps:link {    
+	color: #090901;
+} 
+.b3ps:visited {
+	color: #090901;
+} 
+.b3ps:hover {
+	color: #090901;
+	text-decoration: underline;
+} 
+.b3ps:active {
+	color: #090901;
+}
+
+.b4 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #43280D;
+	letter-spacing: 2px;
+}
+.b4:link {    
+	color: #43280D;
+} 
+.b4:visited {
+	color: #43280D;
+} 
+.b4:hover {
+	color: #43280D;
+	text-decoration: underline;
+} 
+.b4:active {
+	color: #43280D;
+}
+
+
+.b402 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #69761B;
+	letter-spacing: 2px;
+}
+.b402:link {    
+	color: #69761B;
+} 
+.b402:visited {
+	color: #69761B;
+} 
+.b402:hover {
+	color: #69761B;
+	text-decoration: underline;
+} 
+.b402:active {
+	color: #69761B;
+}
+
+
+
+
+.b403 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #DF770F;
+	letter-spacing: 2px;
+}
+.b403:link {    
+	color: #DF770F;
+} 
+.b403:visited {
+	color: #DF770F;
+} 
+.b403:hover {
+	color: #DF770F;
+	text-decoration: underline;
+} 
+.b403:active {
+	color: #DF770F;
+}
+
+
+
+
+.b4n {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 27px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+
+.b4n_table {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 0px;
+	text-align: center;
+}
+
+
+.b4n_tabletitle {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #0062AF;
+	letter-spacing: 0px;
+	text-align: center;
+}
+
+
+
+.b4n_tabletitle02 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 27px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #0062AF;
+	letter-spacing: 0px;
+	text-align: center;
+}
+
+
+
+
+.b4nn {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+.b4nbb {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+.b4nbbb {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+
+.b4nblack {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 25px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #A78258;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+
+
+
+
+
+
+.b4nblacks {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #69761B;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+
+
+.b4nred {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #0062AF;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+
+.b4nred2 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #C84441;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+
+
+.b4ns {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+	text-align: left;
+	font-style: normal;
+}
+
+
+.b4nsw {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #555555;
+	letter-spacing: 1px;
+	text-align: left;
+	font-style: normal;
+}
+
+
+.b4nswgold {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #A78258;
+	letter-spacing: 1px;
+	text-align: left;
+	font-style: normal;
+}
+
+
+
+.b4ns_blue {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #0062AF;
+	letter-spacing: 1px;
+	text-align: left;
+	font-style: normal;
+}
+
+
+
+
+.b4nsred {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #C84441;
+	letter-spacing: 1px;
+	text-align: left;
+	font-style: normal;
+}
+
+
+
+
+.b4ns02 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+
+.b4nsline {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+.b4nsline:link {    
+	color: #333333;
+	text-decoration: underline;
+} 
+.b4nsline:visited {
+	color: #333333;
+	text-decoration: underline;
+} 
+.b4nsline:hover {
+	color: #333333;
+	text-decoration: none;	
+} 
+.b4nsline:active {
+	color: #333333;
+	text-decoration: underline;
+}
+
+
+
+
+.b4nslineb {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+.b4nslineb:link {    
+	color: #333333;
+	text-decoration: underline;
+} 
+.b4nslineb:visited {
+	color: #333333;
+	text-decoration: underline;
+} 
+.b4nslineb:hover {
+	color: #333333;
+	text-decoration: none;	
+} 
+.b4nslineb:active {
+	color: #333333;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+.b4nb {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+
+
+.b4nb_line {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.b4nb_line:link {    
+	color: #333333;
+} 
+.b4nb_line:visited {
+	color: #333333;
+} 
+.b4nb_line:hover {
+	color: #333333;
+	text-decoration: underline;
+} 
+.b4nb_line:active {
+	color: #333333;
+}
+
+
+
+
+
+.b4nbred {	
+    font-family: 'Open Sans', '\5FAE\8EDF\6B63\9ED1\9AD4', 'Microsoft JhengHei', 'Apple LiGothic Medium', MingLiU, sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: bolder;
+    font-variant: normal;
+    color: #9b3d12;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+
+.b4lines {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 2px;
+}
+.b4lines:link {    
+	color: #666666;
+} 
+.b4lines:visited {
+	color: #666666;
+} 
+.b4lines:hover {
+	color: #999999;
+	text-decoration: underline;
+} 
+.b4lines:active {
+	color: #666666;
+}
+
+
+
+
+.b4lines02 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #444444;
+	letter-spacing: 2px;
+}
+.b4lines02:link {    
+	color: #444444;
+} 
+.b4lines02:visited {
+	color: #444444;
+} 
+.b4lines02:hover {
+	color: #666666;
+	text-decoration: underline;
+} 
+.b4lines02:active {
+	color: ##444444;
+}
+
+
+
+.b4lines02s {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #444444;
+	letter-spacing: 2px;
+}
+.b4lines02s:link {    
+	color: #444444;
+} 
+.b4lines02s:visited {
+	color: #444444;
+} 
+.b4lines02s:hover {
+	color: #666666;
+	text-decoration: underline;
+} 
+.b4lines02s:active {
+	color: #444444;
+}
+
+
+
+
+.b4lines03 {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 16px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 2px;
+}
+.b4lines03:link {    
+	color: #666666;
+} 
+.b4lines03:visited {
+	color: #666666;
+} 
+.b4lines03:hover {
+	color: #666666;
+	text-decoration: underline;
+} 
+.b4lines03:active {
+	color: #666666;
+}
+
+
+
+.b4lines_white {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #BEDAF3;
+	letter-spacing: 2px;
+}
+.b4lines_white:link {    
+	color: #808080;
+} 
+.b4lines_white:visited {
+	color: #808080;
+} 
+.b4lines_white:hover {
+	color: #808080;
+	text-decoration: underline;
+} 
+.b4lines_white:active {
+	color: #808080;
+}
+
+
+
+
+
+
+
+.b5 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #6F773E;
+	letter-spacing: 1px;
+}
+
+
+
+.b4ndate {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #4C4C4C;
+	letter-spacing: 1px;
+}
+
+
+
+.b4ndates {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size:13px;
+	line-height: 16px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+	letter-spacing: 1px;
+}
+
+
+
+.b6 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 25px;
+	line-height: 30px;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+}
+
+
+.waylinen {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #444444;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+
+.wayline {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #444444;
+	letter-spacing: 1px;
+}
+.wayline:link {    
+	color: #444444;
+} 
+.wayline:visited {
+	color: #444444;
+} 
+.wayline:hover {
+	color: #666666;
+	text-decoration: underline;
+} 
+.wayline:active {
+	color: ##444444;
+}
+
+.need {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.amrita_bigger {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	color: #E75259;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.amrita_from {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333333;
+	letter-spacing: 1px;
+	line-height: 18px;
+	padding: 0px;
+	margin-bottom: 30px;
+}
+
+.amrita_address {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #666666;
+	letter-spacing: 1px;
+}
+
+
+.amrita_p {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 17px;
+	font-weight: bold;
+	color: #000000;
+	letter-spacing: 1px;
+}
+
+
+.amrita_pgreen {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #69761B;
+	letter-spacing: 1px;
+}
+
+
+
+.amrita_ps {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: normal;
+	color: #090901;
+	letter-spacing: 1px;
+}
+
+
+.mention {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: lighter;
+	color: #786B6B;
+	letter-spacing: 1px;
+	line-height: 15px;
+}
+
+.mention2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 1px;
+}
+
+.mention3 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 15px;
+	font-weight: lighter;
+	font-variant: normal;
+	text-transform: none;
+	color: #666666;
+	letter-spacing: 1px;
+	padding-top: 10px;
+	padding-right: 2px;
+	padding-bottom: 1px;
+	padding-left: 2px;
+}
+
+.mention2b {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #666666;
+	letter-spacing: 1px;
+}
+
+
+.toptxt {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	font-weight: lighter;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+}
+
+
+
+
+.toptxt2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	font-weight: lighter;
+	color: #1B61A0;
+	letter-spacing: 1px;
+}
+
+
+
+
+
+
+.whiteTxt{
+	font-size: 16px;
+	color: #660019;	
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: 27px;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+.price{
+	font-size: 18px;
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	color: #990000;
+	font-weight:bold;
+	letter-spacing: 1px;
+	line-height: 22px;
+}
+
+.pricebig {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: x-large;
+	font-style: normal;
+	font-weight: normal;
+	color: #990000;
+	letter-spacing: normal;
+}
+
+.pricebiger {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	color: #990000;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.redb {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 17px;
+	font-style: normal;
+	line-height: normal;
+	color: #96A246;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.greenbiger {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	color: #5E6534;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.subtitle2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: lighter;
+	color: #9d762d;
+	letter-spacing: 1px;
+	padding-top: 5px;
+	padding-left: 0px;
+}
+
+.smallred {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: 990000;
+	letter-spacing: 1px;
+}
+
+.price2 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #990000;
+	letter-spacing: 1px;
+	text-decoration: line-through;
+}
+
+.price3 {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: lighter;
+	color: #990000;
+	text-decoration: line-through;
+	letter-spacing: 1px;
+}
+
+.gold {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: lighter;
+	color: #D3691F;
+}
+
+.kb {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #54592F;
+	letter-spacing: 1px;
+}
+.kb:link {
+	color: #54592F;
+} 
+.kb:visited {
+	color: #54592F;
+} 
+.kb:hover {
+	color: #54592F;
+	text-decoration: underline;
+} 
+.kb:active {
+	color: #54592F;
+}
+
+
+
+.kbline {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #21A0DE;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+.kbline:link {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kbline:visited {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kbline:hover {
+	color: #21A0DE;
+	text-decoration: underline;
+
+} 
+.kbline:active {
+	color: #21A0DE;
+	text-decoration: none;
+}
+
+
+
+
+.kblinebig {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #21A0DE;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+.kblinebig:link {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblinebig:visited {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblinebig:hover {
+	color: #21A0DE;
+	text-decoration: underline;
+
+} 
+.kblinebig:active {
+	color: #21A0DE;
+	text-decoration: none;
+}
+
+
+
+
+.kbline_under {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #21A0DE;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+.kbline_under:link {
+	color: #21A0DE;
+	text-decoration: underline;
+} 
+.kbline_under:visited {
+	color: #21A0DE;
+	text-decoration: underline;
+} 
+.kbline_under:hover {
+	color: #21A0DE;
+	text-decoration: none;
+
+} 
+.kbline:active {
+	color: #21A0DE;
+	text-decoration: underline;
+}
+
+
+.kbliney {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #BE0026;
+	letter-spacing: 1px;
+}
+.kbliney:link {
+	color: #BE0026;
+	text-decoration: underline;
+} 
+.kbliney:visited {
+	color: #BE0026;
+	text-decoration: none;
+} 
+.kbliney:hover {
+	color: #BE0026;
+	text-decoration: none;
+
+} 
+.kbliney:active {
+	color: #BE0026;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+.kblines {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #21A0DE;
+	letter-spacing: 1px;
+}
+.kblines:link {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblines:visited {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblines:hover {
+	color: #21A0DE;
+	text-decoration: underline;
+
+} 
+.kblines:active {
+	color: #21A0DE;
+	text-decoration: none;
+}
+
+
+
+
+
+.kblinered {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #C84441;
+	letter-spacing: 1px;
+}
+.kblinered:link {
+	color: #C84441;
+	text-decoration: none;
+} 
+.kblinered:visited {
+	color: #C84441;
+	text-decoration: none;
+} 
+.kblinered:hover {
+	color: #C84441;
+	text-decoration: underline;
+
+} 
+.kblinered:active {
+	color: #C84441;
+	text-decoration: none;
+}
+
+
+
+.kblineb {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 23px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #21A0DE;
+	letter-spacing: 1px;
+}
+.kblineb:link {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblineb:visited {
+	color: #21A0DE;
+	text-decoration: none;
+} 
+.kblineb:hover {
+	color: #21A0DE;
+	text-decoration: underline;
+
+} 
+.kblineb:active {
+	color: #21A0DE;
+	text-decoration: none;
+}
+
+
+.kblinebb {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 23px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #21A0DE;
+	letter-spacing: 1px;
+}
+
+
+.kblinebn {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 19px;
+	line-height: 25px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #54592F;
+	letter-spacing: 1px;
+}
+.kblinebn:link {
+	color: #54592F;
+	text-decoration: none;
+} 
+.kblinebn:visited {
+	color: #54592F;
+	text-decoration: none;
+} 
+.kblinebn:hover {
+	color: #8F9850;
+	text-decoration: underline;
+
+} 
+.kblinebn:active {
+	color: #54592F;
+	text-decoration: none;
+}
+
+
+.kbn {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #54592F;
+	letter-spacing: 1px;
+}
+
+.kbnb {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 17px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #54592F;
+	letter-spacing: 1px;
+}
+
+
+
+
+
+.kbb {	
+    font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	font-size: 19px;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #717D55;
+	letter-spacing: 1px;
+}
+.kbb:link {
+	color: #717D55;
+} 
+.kbb:visited {
+	color: #717D55;
+} 
+.kbb:hover {
+	color: #717D55;
+} 
+.kbb:active {
+	color: #717D55;
+}
+
+.bb {
+	background-repeat: repeat-x;
+}
+.table {
+	font-family: Tahoma, Arial, 'MS UI Gothic', SimSun, MingLiU, Verdana, Helvetica, sans-serif;
+	;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: normal;
+	color: #333333;
+	letter-spacing: 1px;
+	text-align: left;
+	white-space: normal;
+	padding: 100px;
+	border: 1px solid #DDDDDD;
+}

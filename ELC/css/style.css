@@ -1,0 +1,66 @@
+body{
+	background-color:#eee6d9;
+	margin:0 auto;
+}
+
+#gotop{	
+	width: 106px;
+	height: 24px;
+	clear:both;
+	margin:10px 0 0 753px;
+}
+.imgborder{
+	border:solid #CCC 1px;
+}
+
+/* ========== 文字區 =========== */	
+.font01 {
+	text-align: left;
+	font-weight: bold;
+	font-size: 15px;
+	color: #33a761;
+	line-height: 26px;
+	font-family: "微軟正黑體";
+}
+.font02 {
+	text-align: left;
+	font-weight: bold;
+	font-size: 16px;
+	color: #3D95DD;
+	line-height: 21px;
+	font-family: "微軟正黑體";
+}
+.font03 {
+	text-align: left;
+	font-weight: normal;
+	font-size: 17px;
+	color: #333;
+	line-height: 28px;
+	font-family: "微軟正黑體";
+}
+
+.font09{
+	font-size: 18px;
+	line-height: 28px;
+	color: #FF0000;
+	font-family: "微軟正黑體";
+	font-weight: bold;
+}
+.font10{
+	font-weight:bold;
+	font-size:18px;
+	line-height:30px;
+	color: #000;
+	line-height:25px;
+	font-family: "微軟正黑體";
+}
+.font11 {
+	font-weight: bold;
+	font-size: 16px;
+	color: #000;
+	line-height: 28px;
+	font-family: "微軟正黑體";
+}
+
+
+
